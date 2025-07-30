@@ -1,13 +1,13 @@
 # analytics-automation-toolkit
 
-### 📝 About teradata_to_excel_outlook.py Script
+This script is a template that showcases a typical analytics automation workflow in Python:
 
-This script demonstrates automating a common analytics workflow with Python:
-- Connect to a Teradata database
-- Export results to Excel
-- Send the report using the Outlook desktop app (win32com)
+Connects to a Teradata database
 
-**Note:**  
-This script is a generalized version of automation workflows I developed in professional analytics roles.
-It shows how to extract data from a database, export it to Excel, and deliver the report via email.
-All variables, queries, and logic are generic—no proprietary or confidential information is included.
+Exports query results to Excel
+
+Emails the report through the Outlook desktop app (win32com)
+
+Note:
+This is a generic example based on automation solutions I’ve built in professional analytics roles.
+All variables, queries, and logic are for demonstration only—no proprietary or sensitive information is included.
