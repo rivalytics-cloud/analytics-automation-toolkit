@@ -1,12 +1,16 @@
 # analytics-automation-toolkit
+Templates for data automation scripts I’ve developed as a data analyst. 
+These examples demonstrate clean code structure and common workflows like database extraction, report generation, and automated emailing.
 
-This script is a template that showcases a typical analytics automation workflow in Python:
 
-Connects to a Teradata database
+📝 About teradata_to_excel_outlook.py
+This template showcases a typical analytics automation workflow in Python:
 
-Exports query results to Excel
+- Connects to a Teradata database
 
-Emails the report through the Outlook desktop app (win32com)
+- Exports query results to Excel
+
+- Emails the report through the Outlook desktop app (win32com)
 
 Note:
 This is a generic example based on automation solutions I’ve built in professional analytics roles.
